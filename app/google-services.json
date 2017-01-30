@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "4174756934",
+    "firebase_url": "https://pushnotifications-68068.firebaseio.com",
+    "project_id": "pushnotifications-68068",
+    "storage_bucket": "pushnotifications-68068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4174756934:android:1583ae540388bf46",
+        "android_client_info": {
+          "package_name": "com.testography.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4174756934-t1asloe0i6bfkb5l2r756562vsn3otds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
